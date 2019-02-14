@@ -1,0 +1,24 @@
+body {
+  background-image: url("background2.jpg");
+  background-size: cover;
+}
+
+main {
+  text-align: center;
+  margin-top: 10px;
+}
+
+nav .carousel-inner {
+  width: 1520px;
+  height: 550px;
+}
+
+.card-deck .card {
+  margin-top: 100px;
+}
+.card-deck .card .card.card-img-top {
+  width: 400px;
+  height: 150px;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
